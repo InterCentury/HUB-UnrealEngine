@@ -8,7 +8,6 @@
 ![Project Preview 8](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/HighresScreenshot00024%20(2).jpg?raw=true)
 ![Project Preview 9](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/HighresScreenshot00025%20(2).jpg?raw=true)
 ![Project Preview 10](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/HighresScreenshot00027%20(2).jpg?raw=true)
-![Project Preview 11](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/HighresScreenshot00028%20(2).jpg?raw=true)
 ![Project Preview 12](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/HighresScreenshot00029%20(2).jpg?raw=true)
 ![Project Preview 13](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/received_270208719487179.jpg?raw=true)
 ![Project Preview 14](https://github.com/InterCentury/HUB-UnrealEngine/blob/main/Project-Previews/received_1152146185829715.jpg?raw=true)
